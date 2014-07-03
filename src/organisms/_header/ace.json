@@ -1,0 +1,12 @@
+{
+    "name": "_header",
+    "author": "phil.hsr@gmail.com",
+    "dependencies": {
+        "components": [],
+        "js": [],
+        "sass": [
+            "mixins/_circle.scss",
+            "mixins"
+        ]
+    }
+}

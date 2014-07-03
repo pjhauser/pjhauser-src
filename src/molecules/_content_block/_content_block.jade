@@ -1,0 +1,38 @@
+//-
+	@file Defines a content_block mixin
+	@author Phil Hauser phil.hsr@gmail.com
+
+//- Dependencies
+
+//- Definition
+
+mixin content_block_content(val)
+
+	if val.img
+		img(src=val.img, alt="")
+	else
+		if val.header
+			h3!= val.header
+		else
+			if val.bgimage
+				div.content-block-image
+					img(src=val.bgimage, alt="")
+	p!= val.text
+
+mixin content_block(content, className)
+
+	//-
+		Get the content array and layout images and text, also wrap 
+		the conent in a div with a modifier detailling the amount
+		of children. This is considered a molecule as it inherits 
+		implied atoms in the form of a <p> tag and <img> tag
+	div(class="content-section--#{content.length}-up #{className}")
+		each val, index in content
+			if val.clickable
+				a(class="content-block link", href=val.link)
+					+content_block_content(val)
+			else
+				.content-block
+					+content_block_content(val)
+
+

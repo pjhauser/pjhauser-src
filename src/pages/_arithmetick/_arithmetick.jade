@@ -1,0 +1,76 @@
+//-
+	@file Page instance: arithmetick 
+	@extends _page_default/_page_default
+
+//- Page dependencies
+
+
+//- Page template
+extends ../../templates/_page_default/_page_default
+
+//- Page variables to pass to template
+block page_vars
+	- var page = {}
+	- page.id = "arithmetick"
+	- page.title = "arithmetick"
+	- page.mainScript = "arithmetick.js"
+
+
+//- Content block
+block content
+
+	article
+
+		h3 Arithmetick
+		p
+			em Friday, November 23rd, 2012
+		:markdown
+			![](/img/icon-72@2x.png "icon-72@2x")
+
+			**TLDR;**
+			After being approached by a client to create a time code calculator we immediately begun to research current solutions to determine our market. After establishing that the current solutions offer a base10 calculator interface but with options to switch between hours, minutes and seconds. I wanted to approach this challenge from an unbiased perspective, and I considered a base10 calculator interface as such a bias. I thus proceeded to model and prototype one of the favored interfaces which consisted of dials. However, after initial prototypes I concluded that draggable areas offered a more cohesive User Experience; this has been refined through a two iterations to deliver Arithmetick v1.2.0.
+
+			[iPhone web app link](/arithmetick/)
+			(Don't forget to view it on your iPhone and please add to home screen first)
+
+
+			**The long version**
+			Only a few months in and I have put Arithmetick (our gesture based time calculator) through another major update. Inspired by Dieter Rams "If you try to be different, you'll very rarely be better, but if you try to be better, you'll nearly always be different" now I'm paraphrasing a but here but the sentiment stands. I didn't want to just make a calculator.
+
+			I looked at what time calculators existed, and found that they were all essentially normal calculator interfaces, with a time selector option jerry-rigged into the design. In our testing this required many more key presses to gain a result, and thus was a product of its design, a calculator that had the option of selecting time. Not a time calculator. 
+
+			![](/img/Screen-Shot-2012-11-23-at-14.22.35.png "Standard Calculator")
+
+			Our 1st port of call was dials. Due to its infinite nature dials stood out as an intuitive and obvious method of selecting time. To start off with I thought that a clock face is a universal method of reading time. 
+
+			![](/img/Screen-Shot-2012-11-23-at-14.22.52.png "First dial idea")
+
+			However, this still involved multiple taps, where the user would select a time, and then decide to either add or subtract that time from a running total. However, this UI presented other UX dilemmas. Such as the fact that a clock dial needs the user to select the time operator. 
+
+			The next logical step from here is to try and remove unnecessary taps, so I looked into overlaying multiple dials. I decided that the User Experience could be optimised thought by determining addition and subtraction by clockwise and anticlockwise motion (respectively). This meant that the time selector is the same as the time type (eg, frames, second, minutes or hours). 
+
+			![](/img/Screen-Shot-2012-11-23-at-14.23.02.png "Multiple Dials")
+
+			![](/img/Screen-Shot-2012-11-23-at-14.23.14.png "Multiple Dials")
+
+			I went pretty far with prototyping this method, but after extensive testing it was determined unsuitable as it was too inaccurate and too difficult to evenly spread the dials within an iPhone display. 
+
+			I then considered a lateral movement opposed to a circular rotation. Somewhat similar to sliders, but less UI dependant. This delivered us our 1st version of Arithmetick. I was then able to maintain a consistent design language with features such as history and options menu, and experiment with our variable frame rate selector. 
+
+			![](/img/8-200x300.png "Arithmetick v1.0")
+
+			This brings us to version 1.1.0 - I intentionally called this version 1.1.0 knowing full well that from a functional and visual perspective, the difference is huge. This is because I want our vision for this app to be obvious, version 2.0 needs to represent something monumental, and I will only get there by performing big updates in small increments. 
+
+			The latest version is a refinement of the original design, I have removed everything that is unnecessary both with features and visuals, but also added a few things that are necessary. For example, I have removed the history selectors, as they were added for visual and not functional reasons. This has been replaced with a save feature. 
+
+			I also (for visual reasons) limited the options menu to 5 items, this was revamped to include switches such as light/dark mode. I was also able to complete elements of functionality such as a tutorial, which is now interactive instead of the slider I had before. 
+
+			I hope you like all of the changes I have implemented with Arithmetick v1.1.0, and I hope that you are inspired by our goals, drive and vision. 
+
+			[iTunes Link](http://www.google.co.uk/url?sa=t&rct=j&q=arithmetick%20time%20calculator&source=web&cd=1&cad=rja&ved=0CDEQFjAA&url=https%3A%2F%2Fitunes.apple.com%2Fgb%2Fapp%2Farithmetick-time-calculator%2Fid559810806%3Fmt%3D8&ei=4YmvUNvKM8ep0QXPh4C4Cg&usg=AFQjCNF7QgKmNgAw3yCrT36JafxyUpcQMw)
+
+			[iPhone web app link](/arithmetick/)
+
+			**The best form of sight**
+			This project has evolved through many iterations. The main things I would do differently would be to ensure more thorough testing before release. By adopting a testing methodology many of the updates released in v1.1.0 could have been bundled into v1.0.0 and thus shorten the release cycles.
+

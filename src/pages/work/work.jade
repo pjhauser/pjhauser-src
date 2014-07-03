@@ -1,0 +1,78 @@
+//-
+	@file Page instance: work 
+	@extends _page_default/_page_default
+
+//- Page dependencies
+include ../../atoms/_headings/_headings
+include ../../molecules/_content_block/_content_block
+
+//- Page template
+extends ../../templates/_page_default/_page_default
+
+//- Page variables to pass to template
+block page_vars
+	- var page = {}
+	- page.id = "work"
+	- page.title = "work"
+	- page.mainScript = "work.js"
+
+
+//- Content block
+block content
+
+	+content_block([
+		{
+			bgimage: "/img/flexLogo.png",
+			text: "For Flex I architected and developed an in-gym routine manager  \
+			<span> I met with Richie (the client) who was opening a new gym \
+			and wanted a technology driven experience to enhance his service offering. \
+			So I designed and developed Flex </span>",
+			clickable: true,
+			link: "work/flex.html"
+		},
+		{
+			bgimage: "/img/11deg_black.png",
+			text: "11º Dock \
+			<span>I designed an iPhone dock that was inspired by Bill Moggridge of IDEO. \
+			For this project I not only designed and prototyped the dock, but I also \
+			designed the branding and website.</span>",
+			clickable: true
+		},
+		{
+			bgimage: "/img/arithemtick.png",
+			text: "Arithmetick was a time calculator released in the App Store  \
+			<span> After being asked to create a time calculator we went straight \
+			to the drawing board. What we ended up with was a gesture based calculator \
+			that combined a unique UX with a minimalist UI </span>",
+			clickable: true
+		}
+	])
+
+
+
+	+content_block([
+		{
+			bgimage: "/img/adc.png",
+			text: "Abbott Diabeties Care \
+			<span> I was the lead developer for the Abbott Diabeties Care global \
+			FreeStyle Libre website. This was a huge initiative for one of the worlds \
+			largest pharmaceutical companies in the world. I architected and lead developed \
+			this adaptive multilingual drupal site. </span>",
+			clickable: true
+		},
+		{
+			bgimage: "/img/ace-molecule-logo.png",
+			text: "Atomic Component Engine \
+			<span> I met with Richie (the client) who was opening a new gym \
+			and wanted a technology driven experience to enhance his service offering. \
+			So I designed and developed Flex </span>",
+			clickable: true
+		},
+		{
+			bgimage: "/img/everton.png",
+			text: "I worked as a technology consultant for the Everton Free School Project \
+			<span> I helped the Everton Free School project relise its vision of a technolog \
+			literate school environment. </span>",
+			clickable: true
+		}
+	])

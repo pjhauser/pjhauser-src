@@ -1,0 +1,39 @@
+//-
+	@file Page instance: about 
+	@extends _page_default/_page_default
+
+//- Page dependencies
+include ../../molecules/_content_block/_content_block
+
+
+//- Page template
+extends ../../templates/_page_default/_page_default
+
+//- Page variables to pass to template
+block page_vars
+	- var page = {}
+	- page.id = "about"
+	- page.title = "about"
+	- page.mainScript = "about.js"
+
+
+//- Content block
+block content
+
+	+content_block([
+		{
+			img: "/img/desk.jpg",
+			text: "Why do I love UX? <br> Because I love good design\
+			<br/>\
+			<span>\
+				I am a Liverpool based UX Architect and Web developer. \
+				I have an MSc in eBusiness Systems and Strategy. I currently work for \
+				a digital and creative agency in Macclesfield; where I introduced them to UX and \
+				have helped them build a UX team. \
+				<br>\
+				<br>\
+				I am passionate about a well designed and thought-out system, and have for \
+				the last 3 years been architecting systems. \
+			</span>"
+		}
+	])

@@ -1,0 +1,37 @@
+/**
+ * @file Defines styles for a footer module
+ * @author Phil Hauser phil.hsr@gmail.com
+ */
+
+// replace with medium and large
+// element breakpoints
+$medium: 99999px;
+$large: 99999px;
+
+
+// element color pallet
+// e.g $button-tint: #000000
+
+
+//Default style (Small first)
+
+
+// @include at-min-width($medium + 1){
+// 	//medium styles
+// }
+
+
+// @include at-min-width($large + 1){
+// 	//large styles
+// }
+
+footer{
+	font-size: 0.6rem;
+	color: $midgrey;
+	width: 100%;
+	text-align: center;
+	a{
+		color: inherit;
+		font-family: $font-family !important;
+	}
+}

@@ -1,0 +1,81 @@
+/**
+ * @file Defines styles for a work module
+ * @author Phil Hauser phil.hsr@gmail.com
+ */
+
+// replace with medium and large
+// element breakpoints
+$medium: 99999px;
+$large: 99999px;
+
+
+// element color pallet
+// e.g $button-tint: #000000
+
+
+//Default style (Small first)
+
+
+// @include at-min-width($medium + 1){
+// 	//medium styles
+// }
+
+
+// @include at-min-width($large + 1){
+// 	//large styles
+// }
+
+
+.page-work .content-wrapper .content{
+	@include at-min-width(1px) {
+
+		.content-section--3-up{
+			@include cf();
+			max-width: 70rem;
+			margin: 0 auto;
+
+			.content-block{
+				min-height: 1rem;
+				height: 100%;
+				color: black;
+				float: left;
+				border: 1px solid #5AC8FB;
+				border-top: 0.5rem solid #5AC8FB;
+
+				img{
+					width: 100%;
+				}
+
+				p{
+					font-size: 1.2rem;
+					font-family: $font-family-mono;
+					width: 100%;
+					padding-top: 1rem;
+					a{
+						font-size: 1rem;
+						color: rgb(87, 201, 255);
+					}
+					span{
+						padding-top: 1rem;
+					}
+				}
+			}
+
+			@include at-min-width(720px) {
+				.content-block{
+					min-height: 38rem;
+					margin: 1%;
+				}
+			}
+
+			@include at-min-width(850px) {
+				.content-block{
+					min-height: 33rem;
+				}
+			}
+
+		}
+	}
+}
+
+

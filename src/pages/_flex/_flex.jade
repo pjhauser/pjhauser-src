@@ -1,0 +1,72 @@
+//-
+	@file Page instance: flex 
+	@extends _page_default/_page_default
+
+//- Page dependencies
+
+
+//- Page template
+extends ../../templates/_page_default/_page_default
+
+//- Page variables to pass to template
+block page_vars
+	- var page = {}
+	- page.id = "flex"
+	- page.title = "flex"
+	- page.mainScript = "flex.js"
+
+
+//- Content block
+block content
+	article
+		h3 Flex
+		p 
+			em Wednesday, December 12th, 2012
+			img.aligncenter.size-full.wp-image-467(src='/img/flexLogo.png', alt='flexLogo', width='500')
+		br
+		:markdown
+			**TLDR;**
+			The client is opening a gym, and would like technology to compliment this project, and help define his product offering. Electing User Experience as our decision maker we undertook research into this sector, and developed an in-gym kiosk which intelligently creates and manages users routines, as well as offers business intelligence to the gym owner/manager. Users would scan their QR code to enter login to the iPad kiosk, retrieve their next exercise, and repeat.
+
+			**The Brief**
+			To build an in-gym solution for routine management.
+			Through a simple and accurate assessment of the user and their goals, provide the perfect workout plan.
+
+			**The initial idea**
+			Without a name we went forward under the code name of "Spark Workout App". Without sounding too clichéd we immediately developed a mission statement for this project;
+
+			> "If I had asked people what they wanted, they would have said faster horses." - Henry Ford.
+
+			This was important to us as we wanted to ensure focus on innovating a robust solution with the DNA of this project being to create a system which can be offered as an accessible, economic method of improving peoples gym going experience.
+
+			The 1st step we undertook was to research to illuminate the user base, competition, innovators, and market outlook. This research is paramount as an anchor to guide the rest of the project. This research was used to determine initial idea of a routine manager, due to the market outlook it was apparent that we could add the most value in augmenting the experience between the gym and technology. We thus went forward and assessed the feasibility of the discovered idea.
+
+			**Research Results**
+		iframe(src='http://docs.google.com/viewer?url=http%3A%2F%2Fpjhauser.github.io%2Fassets%2FSWA_Feasability_Study.pdf&embedded=true', width='600', height='780', style='border: none;')
+		iframe(src='http://docs.google.com/viewer?url=http%3A%2F%2Fpjhauser.github.io%2Fassets%2FSWA_Market_Research-1.pdf&embedded=true', width='600', height='780', style='border: none;')
+
+		:markdown
+			**Proposed System**
+			This proposed system has evolved through numerous iterations, however the overall DNA has remained the same;
+
+			**UML**
+
+			_Registration Use Case_
+			[![](/img/Work/Registration.png "Registration")](/img/Work/Registration.png)
+
+			[![](/img/Work/Registration-2.png "Registration 2")](/img/Work/Registration-2.png)
+
+			_Basic Interaction Use Case_
+			[![](/img/Work/Basic-int.png "Basic int")](/img/Work/Basic-int.png)
+
+			_Routine Changing Use Case_
+			[![](/img/Work/Routine-Changing.png "Routine Changing")](/img/Work/Routine-Changing.png)
+
+			There is a whole lot more UML, the whole thing can be downloaded [here](/assets/SWA_UML.pdf)
+
+			**v0.2 UI prototypes**
+		iframe(src='http://docs.google.com/viewer?url=http%3A%2F%2Fpjhauser.github.io%2Fassets%2FSWA_UML.pdf&embedded=true', width='600', height='780', style='border: none;')
+
+		:markdown
+			**v0.4 changes**
+			The date selector strays too far from the mental model, this should be replaced with a more conventional DD/MM/YYYY selector in a similar fashion to the magic number. Also, not shown in the prototype above, but when a user selects to swap an exercise, the interface flips around as positive re-enforcement of their action.
