@@ -127,6 +127,33 @@ module.exports = function(grunt) {
 					'jquery-hammer':	'vendor/jquery.hammer-full',
 					'work':				'vendor/grid',
 					'Modernizr':		'vendor/modernizr.custom'
+				},
+				shim: {
+					'jquery': {
+						'exports': '$'
+					},
+					'elementquery': {
+						'deps': ['jquery'],
+						'exports': 'elementQuery'
+					},
+					'html5shiv':{
+						'exports' : 'h5s'
+					},
+					'html2canvas':{
+						'exports' : 'html2canvas'
+					},
+					'StackBlur': {
+						'exports' : 'StackBlur'
+					},
+					'iscroll': {
+						'exports' : 'iscroll'
+					},
+					'work': {
+						'exports' : 'work'
+					},
+					'Modernizr': {
+						'exports' : 'Modernizr'
+					}
 				}
 			}
 		}
