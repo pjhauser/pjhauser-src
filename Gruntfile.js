@@ -113,7 +113,6 @@ module.exports = function(grunt) {
 				include: explicitDependencies,
 				mainConfigFile: "src/global-js/main.js",
 				out: env.dest+'/js/<%= pkg.name %>.min.js',
-				optimize: "none",
 				paths: {
 					'base':				'vendor/Base',
 					'jquery':			'vendor/jquery',

@@ -36,6 +36,11 @@ define([
 		}else{
 			window.elementQuery.refresh();
 		}
+
+		$("header").on("click", "a", function(e){
+			e.stopPropagation();
+		});
+
 	};
 
 	componentTasks.registerTask({

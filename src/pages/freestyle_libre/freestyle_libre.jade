@@ -1,0 +1,59 @@
+//-
+	@file Page instance: freestyle_libre 
+	@extends _page_default/_page_default
+
+//- Page dependencies
+
+
+//- Page template
+extends ../../templates/_page_default/_page_default
+
+//- Page variables to pass to template
+block page_vars
+	- var page = {}
+	- page.id = "freestyle_libre"
+	- page.title = "freestyle_libre"
+	- page.mainScript = "freestyle_libre.js"
+
+
+//- Content block
+block content
+
+	article
+		h3 FreeStyle Libre
+		br
+		img(src='/img/adc.png', alt='jct', width='300')
+		br
+		br
+		:markdown
+			#### The Brief
+			Abbott Diabetes Care are launching a new initiative, which is set to launch September 1st 2014. eMedFusion won the RFP to
+			design and build the web presemce for this new product. 
+
+			Abbott wanted this site to be resonsive site to advertise their product, and help market it in this highly 
+			competative and innovative market. This site had to be content managable, and connect with a veriety of different services.
+
+			My role was as Lead UX and Lead Developer on the project, and involved liaising with the client, architecting the system, 
+			writing the functional specification and SOW, and managing the development day to day.
+
+			Key Responsiblities
+
+				* System architecture
+				* Wireframes
+				* Functional specification
+				* Managing day to day dev
+					* Hiring freelance developers
+					* Managing version control 
+
+			In this role I attempted to introduce eMedFusion to numerous tools and techniques including SCRUM, Git, Grunt, Jenkins, UX,
+			and a UX focused methodology.
+
+			#### Technologoy I used
+
+				* Yeoman
+				* Grunt
+				* Drupal
+				* HTML/CSS (IE8)
+				* elementQuery
+
+			(Visit Pre-Release Site)[]

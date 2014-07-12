@@ -1,0 +1,46 @@
+//-
+	@file Page instance: ace 
+	@extends _page_default/_page_default
+
+//- Page dependencies
+
+
+//- Page template
+extends ../../templates/_page_default/_page_default
+
+//- Page variables to pass to template
+block page_vars
+	- var page = {}
+	- page.id = "ace"
+	- page.title = "ace"
+	- page.mainScript = "ace.js"
+
+
+//- Content block
+block content
+
+
+	article
+		h3 Atomic Component Engine (ACE)
+		br
+		img(src='/img/ace-molecule-logo.png', alt='jct', width='300')
+		br
+		br
+		iframe(src='http://ghbtns.com/github-btn.html?user=atomic-component-engine&repo=ace&type=watch', allowtransparency='true', frameborder='0', scrolling='0', width='62', height='20')
+
+		:markdown
+			[Checkout ACE on github](https://github.com/atomic-component-engine/ace) - Ace is a system for creating mini 
+			bootstraps for every project. It's a system for creating and maintinaing atomically designed websites.
+
+			I created ACE with [@itsravanous](https://github.com/itsravenous) after introducing him to atomic design we both 
+			immediately began using that methodology with our SASS, however we soon realised that we could also combine our
+			Grunt, Jade workflow with that methodology.
+
+			Using Yeoman we began to create a node based command line tool now known as ACE, its still in development but 
+			is actively used by both of us on live projects. ACE consists of:
+
+			* Yeoman generators
+			* grunt file
+			* base boilerplate including require.js
+			* automated component js execution
+			

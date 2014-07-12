@@ -65,6 +65,7 @@ header{
 	@include cf();
 	margin-bottom: 1rem;
 	width: 100%;
+	padding-top: 0.5rem;
 
 	.logo, nav{
 		display: block;
@@ -82,7 +83,7 @@ header{
 	.logo{
 		text-align: left;
 		margin-left: 1rem;
-		margin-top: -3.8rem;
+		margin-top: -4.1rem;
 	}
 
 
@@ -98,7 +99,7 @@ header{
 		.logo{
 			text-align: center;
 			margin-left: 3%;
-			margin-top: 0rem;
+			margin-top: 0;
 			p{
 				margin: 0.1rem 0;
 			}
@@ -126,6 +127,8 @@ header{
 	}
 
 	@include at-min-width($large) {
+		padding-top: 0rem;
+
 		nav{
 			margin-top: 0;
 		}

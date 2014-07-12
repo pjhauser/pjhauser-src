@@ -36,9 +36,10 @@ nav ul {
 		a{
 			position: relative;
 			color: inherit;
-			margin: 0.5rem;
-			margin-top: -1rem;
 			text-decoration: none;
+			width: 100%;
+			height: 100%;
+			display: block;
 		}
 	}
 }
