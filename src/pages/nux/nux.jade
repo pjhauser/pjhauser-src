@@ -1,0 +1,34 @@
+//-
+	@file Page instance: nux 
+	@extends _page_default/_page_default
+
+//- Page dependencies
+
+
+//- Page template
+extends ../../templates/_page_default/_page_default
+
+//- Page variables to pass to template
+block page_vars
+	- var page = {}
+	- page.id = "nux"
+	- page.title = "nux"
+	- page.mainScript = "nux.js"
+
+
+//- Content block
+block content
+
+
+	article
+		h3 NUX October 6th 2014 - UX in a traditional enterprise
+		p 
+			em Monday, October 6th, 2014
+		.iframe-container
+			iframe(src='//www.slideshare.net/slideshow/embed_code/39944766', width='427', height='356', frameborder='0', marginwidth='0', marginheight='0', scrolling='no', style='border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;', allowfullscreen='allowfullscreen')  
+				div(style='margin-bottom: 5px;')
+					strong
+						a(href='https://www.slideshare.net/pjhauser/ux-talk-39944766', title='NUX October 6th 2014 - UX in a traditional enterprise', target='_blank') NUX October 6th 2014 - UX in a traditional enterprise
+						| from
+						strong
+							a(href='http://www.slideshare.net/pjhauser', target='_blank') pjhauser

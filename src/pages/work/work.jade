@@ -22,13 +22,24 @@ block content
 
 	+content_block([
 		{
+			bgimage: "/img/desk.jpg",
+			text: "Secret Project \
+			<span> I recently led the development and UX of a multilingual eCommerce project. \
+			However the details of this project are too secret to just share to everyone. \
+			Please contact me for more info on this. </span>",
+			clickable: true,
+			link: "mailto:phil@pjhauser.com?Subject=More%20information&Body=Hi%20Phil%0A%0AI%27d%20like%20to%20know%20more%20about%20the%20secret%20project%20you%20allude%20to%20on%20your%20website%20please.%0A%0AThanks",
+			class: "email-link"
+		},
+		{
 			bgimage: "/img/flexLogo.png",
 			text: "For Flex I architected and developed an in-gym routine manager  \
 			<span> I met with Richie (the client) who was opening a new gym \
 			and wanted a technology driven experience to enhance his service offering. \
 			So I designed and developed Flex </span>",
 			clickable: true,
-			link: "flex.html"
+			link: "flex.html",
+			class: ""
 		},
 		{
 			bgimage: "/img/11deg_black.png",
@@ -37,7 +48,41 @@ block content
 			For this project I not only designed and prototyped the dock, but I also \
 			designed the branding and website.</span>",
 			clickable: true,
-			link: "11_degree_dock.html"
+			link: "11_degree_dock.html",
+			class: ""
+		}
+	])
+
+		//- {
+		//- 	bgimage: "/img/adc.png",
+		//- 	text: "Abbott Diabeties Care \
+		//- 	<span> I was the lead developer for the Abbott Diabeties Care global \
+		//- 	FreeStyle Libre website. This was a huge initiative for one of the worlds \
+		//- 	largest pharmaceutical companies in the world. I architected and lead developed \
+		//- 	this adaptive multilingual drupal site. </span>",
+		//- 	clickable: true,
+		//- 	link: "freestyle_libre.html"
+		//- },
+
+	+content_block([
+		{
+			bgimage: "/img/ace-molecule-logo.png",
+			text: "Atomic Component Engine \
+			<span> After developing a few responsive sites using Grunt I decided to create \
+			a system to scaffold and and manage projects. It uses Brad Frosts atomic design \
+			methodology and creates independant components that are in them selves responsive. </span>",
+			clickable: true,
+			link: "ace.html",
+			class: ""
+		},
+		{
+			bgimage: "/img/everton.png",
+			text: "I worked as a technology consultant for the Everton Free School Project \
+			<span> I helped the Everton Free School project relise its vision of a technolog \
+			literate school environment. </span>",
+			clickable: true,
+			link: "everton_school.html",
+			class: ""
 		},
 		{
 			bgimage: "/img/arithemtick.png",
@@ -46,38 +91,8 @@ block content
 			to the drawing board. What we ended up with was a gesture based calculator \
 			that combined a unique UX with a minimalist UI </span>",
 			clickable: true,
-			link: "arithemtick.html"
+			link: "arithmetick.html",
+			class: ""
 		}
 	])
 
-
-
-	+content_block([
-		{
-			bgimage: "/img/adc.png",
-			text: "Abbott Diabeties Care \
-			<span> I was the lead developer for the Abbott Diabeties Care global \
-			FreeStyle Libre website. This was a huge initiative for one of the worlds \
-			largest pharmaceutical companies in the world. I architected and lead developed \
-			this adaptive multilingual drupal site. </span>",
-			clickable: true,
-			link: "freestyle_libre.html"
-		},
-		{
-			bgimage: "/img/ace-molecule-logo.png",
-			text: "Atomic Component Engine \
-			<span> After developing a few responsive sites using Grunt I decided to create \
-			a system to scaffold and and manage projects. It uses Brad Frosts atomic design \
-			methodology and creates independant components that are in them selves responsive. </span>",
-			clickable: true,
-			link: "ace.html"
-		},
-		{
-			bgimage: "/img/everton.png",
-			text: "I worked as a technology consultant for the Everton Free School Project \
-			<span> I helped the Everton Free School project relise its vision of a technolog \
-			literate school environment. </span>",
-			clickable: true,
-			link: "everton_school.html"
-		}
-	])

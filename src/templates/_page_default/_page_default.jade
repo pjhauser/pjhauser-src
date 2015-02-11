@@ -3,6 +3,7 @@
 
 //- Template dependencies
 include ../../molecules/_footer/_footer
+include ../../atoms/_logo/_logo
 include ../../organisms/_header/_header
 
 //- Default vars
@@ -39,12 +40,12 @@ html(lang="en")
 		else
 			link(rel="stylesheet", href="/css/main.css")
 
-		link(href='http://fonts.googleapis.com/css?family=PT+Mono|Open+Sans:100,300italic,400italic,400,300,600,700', rel='stylesheet', type='text/css')
 		link(href='http://fonts.googleapis.com/css?family=Satisfy', rel='stylesheet', type='text/css')
+		link(href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,300italic,400italic', rel='stylesheet', type='text/css')
+		link(href='http://fonts.googleapis.com/css?family=Merriweather:300,400', rel='stylesheet', type='text/css')
 		// if lt IE 9
 			script(src="/js/ie/eventlistener.js")
-			script(src="/js/ie/selectivizr-min.js")
-			script(src="/js/ie/respond.min.js")
+			script(src="/js/ie/html5shiv.js")
 
 	body(class=bodyClass, data-page=page.id)
 		+header()
@@ -53,7 +54,17 @@ html(lang="en")
 				block content
 				+footer()
 
+
 		if (env == "dev")
 			script(data-main="/js/main", src="/js/vendor/require.js")
 		else
 			script(src="/js/"+pkg.name+".min.js")
+
+		script
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-37250807-1', 'auto');
+			ga('send', 'pageview');

@@ -12,8 +12,18 @@ define([
 
 	navTask = function(){
 		var ocM = new offcanvasMenu('header nav .menu');
-		$(ocM.$clickEventSelector).hammer().on('tap', function(event){
-			ocM.toggle();
+		$('header nav a').hammer().on('tap', function(event){
+			event.preventDefault();
+			event.stopPropagation();
+			if($(event.target).text() == 'menu'){
+				ocM.toggle();
+			}else{
+				if(event.target.getAttribute('href') == '#'){
+					window.location.href = 'index.html';
+				}else{
+					window.location.href = event.target.getAttribute('href');
+				}
+			}
 		});
 	};
 

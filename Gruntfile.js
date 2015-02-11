@@ -12,7 +12,7 @@ module.exports = function(grunt) {
 		},
 		release: {
 			dest: 'release',
-			jsTasks: ['jshint', 'requirejs'],
+			jsTasks: ['jshint', 'requirejs', 'copy:jsIE'],
 			sassOutputStyle: 'compressed'
 		}
 	};
@@ -266,6 +266,11 @@ module.exports = function(grunt) {
 				{expand: true, flatten: true, cwd: 'src/templates', src: ['**/*.js'], dest: env.dest+'/js'},
 				{expand: true, flatten: true, cwd: 'src/pages', src: ['**/*.js'], dest: env.dest+'/js'},
 				{expand: true, flatten: false, cwd: 'src/global-js', src: ['**/*.js'], dest: env.dest+'/js'}
+			]
+		},
+		jsIE: {
+			files: [
+				{expand: true, flatten: false, cwd: 'src/global-js', src: ['ie/**/*.js'], dest: env.dest+'/js'}
 			]
 		}
 	};

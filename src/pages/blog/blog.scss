@@ -1,0 +1,24 @@
+/**
+ * @file Defines styles for the blog page
+ * @author Phil Hauser phil.hsr@gmail.com
+ */
+
+
+.page-blog {
+
+	.title{
+		margin: 5rem 1rem 0;
+	}
+
+	.content-wrapper .content .content-section--1-up.left{
+		@include at-min-width(1000px){
+			img,p{
+				float: left;
+			}
+		}
+	}
+
+	.zweck img{
+		border: 1px solid #666;
+	}
+}

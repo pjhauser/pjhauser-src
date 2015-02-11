@@ -26,13 +26,16 @@ $large: 99999px;
 // }
 
 .logo p{
-		font-family: 'Satisfy', cursive;
+		font-family: $cursive-font;
 		font-size: $font-size-xlarge;
-		font-weight: 100;
+		font-weight: 300;
 		text-align: left;
 
 		a{
 			text-decoration: none;
 			color: inherit;
+			&:hover{
+				background: none;
+			}
 		}
 }

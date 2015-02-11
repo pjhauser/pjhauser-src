@@ -79,11 +79,11 @@ nav {
 
 	}
 
-	margin-top: -9.5rem;
+	margin-top: -7rem;
+	margin-top: -8.5rem;
 	-webkit-backface-visibility: hidden;
 	-webkit-transition: margin 0.5s;
 	transition: margin 0.5s;
-
 
 	&.show-offcanvas{
 		margin-top: 0rem;
@@ -110,9 +110,9 @@ nav {
 				padding: 0;
 				a{
 					padding: 0 0.5rem;
-					padding-top: 45%;
-
+					padding-top: 50%;
 					&:hover{
+						background: none;
 						text-decoration: underline;
 					}
 				}

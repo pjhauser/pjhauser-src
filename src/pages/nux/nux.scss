@@ -1,0 +1,15 @@
+/**
+ * @file Defines styles for the nux page
+ * @author Phil Hauser phil.hsr@gmail.com
+ */
+
+.page-nux{
+	.iframe-container{
+		margin-top: 3rem;
+		width: 100%;
+		text-align: center;
+		iframe{
+			display: inline-block;
+		}
+	}
+}

@@ -29,10 +29,10 @@ mixin content_block(content, className)
 	div(class="content-section--#{content.length}-up #{className}")
 		each val, index in content
 			if val.clickable
-				a(class="content-block link", href=val.link)
+				a(class="content-block link #{val.class}", href=val.link)
 					+content_block_content(val)
 			else
-				.content-block
+				.content-block(class="#{val.class}")
 					+content_block_content(val)
 
 

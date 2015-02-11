@@ -1,0 +1,105 @@
+//-
+	@file Page instance: blog 
+	@extends _page_default/_page_default
+
+//- Page dependencies
+include ../../molecules/_content_block/_content_block
+
+
+//- Page template
+extends ../../templates/_page_default/_page_default
+
+//- Page variables to pass to template
+block page_vars
+	- var page = {}
+	- page.id = "blog"
+	- page.title = "blog"
+	- page.mainScript = "blog.js"
+
+
+//- Content block
+block content
+
+	.title
+		h2 Welcome to my blog
+		br
+		h4 Here you will find a selection of thoughts, musings and unfinished works.
+	br
+	br
+	br
+
+	+content_block([
+		{
+			img: "/img/nux.png",
+			text: "NUX Talk \
+			<span> This is a talk I gave at NUX, October 2014 on integrating UX into a traditional enterprise. \
+			 <a href='/blog/nux.html'>View the slides</a></span>"
+		}
+	])
+
+	hr
+
+	+content_block([
+		{
+			img: "/img/Work/zweck_thumb.jpg",
+			text: "zweck \
+			<span> I designed a singlepage website for a digital creative agency \
+			 <a href='/blog/zweck.html'>See the design</a></span>"
+		}
+	], "left zweck")
+
+	hr
+
+	+content_block([
+		{
+			img: "/img/Work/58_degrees.png",
+			text: "Spark Revolutions Branding \
+			<span> I rebranded Spark Revolutions, focusing on the \
+			essence of the spark. <a href='/blog/58deg.html'>See the branding</a></span>"
+		}
+	])
+
+	hr
+
+	+content_block([
+		{
+			img: "/img/Work/snowboard.png",
+			text: "Romp Snowboarding \
+			<span>This is a design I recently completed for\
+			romp snowboarding <a href='http://bit.ly/1pyn3yg'>See the design</a></span>"
+		}
+	], "left")
+
+	//- hr
+
+
+	//- +content_block([
+	//- 	{
+	//- 		img: "/img/Work/priorin.png",
+	//- 		text: "Bayer Priorin \
+	//- 		<span> An iPad sales aid for the a \
+	//- 		pharma giant <a href='/blog/priorin/'>See the demo</a></span>"
+	//- 	}
+	//- ])
+
+	//- hr
+
+	//- +content_block([
+	//- 	{
+	//- 		img: "/img/Work/jct_slim.png",
+	//- 		text: "John C Taylor \
+	//- 		<span>A clock like no other needed \
+	//- 		a website like no other <a href='#'>Read More</a></span>"
+	//- 	}
+	//- ], "left")
+
+	//- hr
+
+	//- +content_block([
+	//- 	{
+	//- 		img: "/img/Screen-Shot-2013-02-05-at-16.46.57.jpg",
+	//- 		text: "Arithmetick Site \
+	//- 		<span> This responsive site is designed to help sell the\
+	//- 		iOS app Arithmetick <a href='/blog/arithmetick-website/'>See the site</a></span>"
+	//- 	}
+	//- ])

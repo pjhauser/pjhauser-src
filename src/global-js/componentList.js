@@ -30,6 +30,7 @@ define([
 							componentTasks.getTask(selector).apply(this, [$components]);
 						}
 					}
+					$(window).trigger("aceComplete");
 				}else{
 					var $component = $(specificSelector);
 					if ($component.length) {

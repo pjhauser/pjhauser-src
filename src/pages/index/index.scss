@@ -28,21 +28,26 @@ $large: 99999px;
 .page-home .content{
 	@include at-min-width(1px) {
 
-		.what-i-do{
-			@extend %content-block--alt;
+		.hire-me{
+			border: 1px solid black;
+			text-decoration: none;
+			padding: 0.2rem 1.2rem;
 		}
 
 		.intro {
+			padding-bottom: 3rem;
 			.content-block{
 				color: black;
 				p{
+					font-weight: 400;
 					font-size: 1rem;
-					font-family: $font-family-mono;
+					font-family: $font-family;
 					width: 100%;
 					padding-top: 1rem;
 					a{
 						font-size: 1rem;
 						color: rgb(87, 201, 255);
+						color: #23C081;
 					}
 				}
 			}
@@ -54,7 +59,8 @@ $large: 99999px;
 	@include at-min-width(480px) {
 
 		.content-block{
-			padding-bottom: 12rem;
+			padding-bottom: 6rem;
+			padding-top: 3rem;
 		}
 
 

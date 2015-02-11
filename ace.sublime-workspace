@@ -1,0 +1,1707 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"toggle",
+				"toggleClass	jQuery"
+			],
+			[
+				"scro",
+				"scrollTop	jQuery"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"doc",
+				"document	jsWindow"
+			],
+			[
+				"obj",
+				"object	Tag"
+			],
+			[
+				"add",
+				"addClass	jQuery"
+			],
+			[
+				"clon",
+				"clonedElm"
+			],
+			[
+				"can",
+				"canvasElm"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"cookie",
+				"cookie-container"
+			],
+			[
+				"loca",
+				"location	jsWindow"
+			],
+			[
+				"mee",
+				"meet-the-team-second"
+			],
+			[
+				"ev",
+				"event"
+			],
+			[
+				"lightbo",
+				"lightbox-container"
+			],
+			[
+				"setTim",
+				"setTimeout	jsWindow"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"tex",
+				"text-align-last"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"pla",
+				"placeholder"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"compon",
+				"componentName"
+			],
+			[
+				"compoen",
+				"component"
+			],
+			[
+				"DEPE",
+				"dependency"
+			],
+			[
+				"glab",
+				"global-scss"
+			],
+			[
+				"cur",
+				"curFiles"
+			],
+			[
+				"content",
+				"contentBlock"
+			],
+			[
+				"depen",
+				"dependancyName"
+			],
+			[
+				"cont",
+				"content-block"
+			],
+			[
+				"alrea",
+				"alreadyAdded"
+			],
+			[
+				"depe",
+				"dependancy"
+			],
+			[
+				"confi",
+				"config"
+			],
+			[
+				"Compon",
+				"ComponentsGenerator"
+			],
+			[
+				"componen",
+				"component"
+			],
+			[
+				"createA",
+				"createAceJSON"
+			],
+			[
+				"comp",
+				"componentSelect"
+			],
+			[
+				"sele",
+				"selectComponentType"
+			],
+			[
+				"dep",
+				"dependencies"
+			],
+			[
+				"lo",
+				"log	jsMath"
+			],
+			[
+				"expo",
+				"exportedFiles"
+			],
+			[
+				"sel",
+				"self	jsWindow"
+			],
+			[
+				"conte",
+				"content-section--1-column"
+			],
+			[
+				"data",
+				"data-description"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"selec",
+				"selector	jQueryDeprecated"
+			],
+			[
+				"p",
+				"p	padding"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"fileName",
+				"fileNameArray"
+			],
+			[
+				"requi",
+				"require-text"
+			],
+			[
+				"compo",
+				"componentList"
+			],
+			[
+				"com",
+				"componentTasks"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"exp",
+				"exports"
+			],
+			[
+				"confirm",
+				"confirmInit"
+			],
+			[
+				"user",
+				"userEmail"
+			],
+			[
+				"qu",
+				"questions"
+			],
+			[
+				"gen",
+				"generators"
+			],
+			[
+				"removeC",
+				"removeClass	jQuery"
+			],
+			[
+				"loadVi",
+				"loadView1"
+			],
+			[
+				"loadV",
+				"loadView7"
+			],
+			[
+				"homep",
+				"homepageJumpLinks"
+			],
+			[
+				"promo",
+				"promotion"
+			],
+			[
+				"curr",
+				"currentTarget	jsEvent"
+			],
+			[
+				"lan",
+				"landscape"
+			],
+			[
+				"is",
+				"isInView"
+			],
+			[
+				"isIn",
+				"isInDOM"
+			],
+			[
+				"jqy",
+				"jQuery"
+			],
+			[
+				"remo",
+				"removeClass	jQuery"
+			],
+			[
+				"fun",
+				"function	jsProp"
+			],
+			[
+				"jquery",
+				"jQuery"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"footer",
+				"footerMobile"
+			],
+			[
+				"fade",
+				"fadeOut	jQuery"
+			],
+			[
+				"yout",
+				"youtubeVideos"
+			],
+			[
+				"vide",
+				"videoIds"
+			],
+			[
+				"you",
+				"youtubeVideos"
+			],
+			[
+				"face",
+				"facebookShareString"
+			],
+			[
+				"twitter",
+				"twitterShareString"
+			],
+			[
+				"shareL",
+				"shareLinks"
+			],
+			[
+				"bind",
+				"bindEvents"
+			],
+			[
+				"bad",
+				"badgeCounter"
+			],
+			[
+				"not",
+				"notify"
+			],
+			[
+				"fail",
+				"failureFn"
+			],
+			[
+				"call",
+				"callbackFn"
+			],
+			[
+				"home",
+				"homepage-banner-disclaimer"
+			],
+			[
+				"coll",
+				"collapsedOption"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"evn",
+				"page-event-details"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"event",
+				"events-item-button"
+			],
+			[
+				"exten",
+				"extendMaps"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"remoe",
+				"removeChild	jsDOM"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"err",
+				"errorFlash"
+			],
+			[
+				"rea",
+				"reason"
+			],
+			[
+				"setTm",
+				"setTimeout	jsWindow"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"off",
+				"offsetParent	jQuery"
+			],
+			[
+				"hot",
+				"hotspot-content"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ac",
+				"avoid-the-lancet-message"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"viwe",
+				"viewAll"
+			],
+			[
+				"function",
+				"function"
+			],
+			[
+				"stop",
+				"stopPropagation	jsEvent"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"even",
+				"eventId"
+			],
+			[
+				"rs",
+				"rsvpConfirm"
+			],
+			[
+				"rsv",
+				"rsvpPending"
+			],
+			[
+				"users",
+				"usersWedding"
+			],
+			[
+				"must",
+				"mustBeSignedIn"
+			],
+			[
+				"prev",
+				"preventDefault	jsEvent"
+			],
+			[
+				"accoun",
+				"accountSettings"
+			],
+			[
+				"eventI",
+				"eventId"
+			],
+			[
+				"rou",
+				"route"
+			],
+			[
+				"dis",
+				"displayMessage"
+			],
+			[
+				"password",
+				"password-reset"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/organisms/_header/_header.scss",
+			"settings":
+			{
+				"buffer_size": 2080,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/molecules/_nav_items/_nav_items.scss",
+			"settings":
+			{
+				"buffer_size": 1974,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"html boiler",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"lotr",
+				"LoremIpsum: (30) lots"
+			],
+			[
+				"lorum",
+				"LoremIpsum: (30) lots"
+			],
+			[
+				"ipsum",
+				"LoremIpsum: (30) lots"
+			],
+			[
+				"ips",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"",
+				"API-Completion-Package: Open Github project url"
+			],
+			[
+				"bl",
+				"Git: Blame"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"statsu",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"quick",
+				"Git: Quick Add"
+			],
+			[
+				"add",
+				"Git: Quick Add"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"quic",
+				"Git: Quick Add"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"quick add ",
+				"Git: Quick Add"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 156.0,
+		"history":
+		[
+			"file_diff_menu",
+			"cd .."
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/pjhauser/Development/_dev_pjhauser/src",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/global-js"
+	],
+	"file_history":
+	[
+		"/Users/pjhauser/Development/_dev_pjhauser/src/atoms/_nav_item/_nav_item.jade",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/pages/index/index.scss",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/global-js/main.js",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/global-scss/mixins/_element_query.scss",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/global-js/offcanvasMenu.js",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/molecules/_nav_items/_nav_items.js",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/molecules/_nav_items/_nav_items.jade",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/atoms/_nav_item/_nav_item.scss",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/atoms/_nav_item/_nav_item.js",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/pages/flex/flex.jade",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/molecules/_content_block/_content_block.scss",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/pages/work/work.jade",
+		"/Users/pjhauser/Development/_dev_pjhauser/todo.md",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/templates/_page_default/_page_default.jade",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/global-scss/_settings.scss",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/atoms/_logo/_logo.scss",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/organisms/_header/_header.scss",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/pages/fsl/freestyle_libre.scss",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/global-js/ContentBlockHelper.js",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/global-js/componentTasks.js",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/global-js/vendor/almond.js",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/global-js/componentList.json",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/global-js/componentList.js",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/global-js/vendor/Base.js",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/global-js/ie/boxsizing.htc",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/global-js/vendor/grid.js",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/templates/_page_default/_page_default.scss",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/pages/work/work.scss",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/organisms/_header/_header.js",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/organisms/_header/_header.jade",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/atoms/_headings/_headings.jade",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/global-js/ie/html5shiv.js",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/molecules/_content_block/_content_block.jade",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/pages/fsl/fsl.jade",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/pages/about/about.jade",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/pages/index/index.jade",
+		"/Users/pjhauser/Development/_dev_pjhauser/release/robots.txt",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/molecules/_content_block/_content_block.js",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/global-js/vendor/console.js",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/pages/freestyle_libre/freestyle_libre.jade",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/pages/freestyle_libre/freestyle_libre.js",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/global-scss/main.scss",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/pages/index/index.js",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/molecules/_nav_items/_nav_items.scss",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/pages/blog/blog.jade",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/atoms/_headings/_headings.scss",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/molecules/_item_card/_item_card.scss",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/pages/_index/_index.scss",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/templates/_page_default/_page_default.jade",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/molecules/_item_card/_item_card.jade",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/molecules/_parallax_header/_parallax_header.jade",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/molecules/_parallax_header/_parallax_header.js",
+		"/Users/pjhauser/Desktop/share.js",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/global-js/componentList.js",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/molecules/_parallax_header/_demo_parallax_header.jade",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/global-scss/mixins/_offscreen.scss",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/pages/_index/_index.js",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/molecules/_item_card/_item_card.js",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/pages/_index/_index.jade",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/atoms/_logo/_logo.scss",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/atoms/_logo/_logo.jade",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/global-scss/_debug.scss",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/templates/_page_default/_page_default.js",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/global-scss/_settings.scss",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/organisms/_nav/_nav.jade",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/organisms/_nav/_nav.scss",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/atoms/_arrow/_arrow.scss",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/atoms/_arrow/_arrow.jade",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/templates/_page_default/_page_default.scss",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/molecules/_item_card/_demo_item_card.jade",
+		"/Users/pjhauser/Development/_dev_nebulaclothing/src/atoms/_logo/_demo_logo.scss",
+		"/Users/pjhauser/Documents/UX/pjhauser/index.html",
+		"/Users/pjhauser/Documents/UX/pjhauser/logo.svg",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/pjhauser/Development/_dev_pjhauser/ace.sublime-project",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/pages/blog/blog.scss",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/pages/zweck/zweck.jade",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/pages/58deg/58deg.jade",
+		"/Users/pjhauser/Development/_release_pjhauser.github.io/manifest.appcache",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/pages/about/about.scss",
+		"/Users/pjhauser/Downloads/[KAM] Transform Each 2.jsx",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/pages/terms/terms.jade",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/pages/index/index.jade",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/pages/cookies/cookies.jade",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/pages/privacy/privacy.jade",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/release/css/main.css",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/release/terms.html",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/release/privacy.html",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/release/index.html",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/release/cookies.html",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/organisms/_header/_header.js",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/organisms/_content_row_2_up/_content_row_2_up.scss",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/templates/_page_default/_page_default.jade",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/organisms/_content-row-3-up/_content-row-3-up.scss",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/molecules/_contained_content_block_with_image/_contained_content_block_with_image.scss",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/global-scss/_settings.scss",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/molecules/_lightbox/_lightbox.scss",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/molecules/_footer/_footer.jade",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/global-js/vendor/ashfield.full.js",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/global-js/componentList.js",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/molecules/_footer/_footer.scss",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/organisms/_header/_header.jade",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/molecules/_lightbox/_lightbox.js",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/organisms/_content_row_2_up/_content_row_2_up.jade",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/atoms/_logo/_logo.jade",
+		"/Users/pjhauser/Development/_dev_pjhauser/src/pages/ace/ace.jade",
+		"/Users/pjhauser/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/molecules/_lightbox/_lightbox.jade",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/molecules/_full_width_content_block/_full_width_content_block.scss",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/pages/_index/_index.jade",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/molecules/_contained_content_block_with_image/_contained_content_block_with_image.js",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/molecules/_contained_content_block_with_image/_contained_content_block_with_image.jade",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/global-js/main.js",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/molecules/_full_width_content_block/_demo_full_width_content_block.scss",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/atoms/_logo/_logo.scss",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/molecules/_nav/_nav.scss",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/molecules/_footer/_demo_footer.jade",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/pages/_index/_index.scss",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/molecules/_full_width_content_block/_full_width_content_block.jade",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/organisms/_content-row-3-up/_demo_content-row-3-up.scss",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/organisms/_content_row_2_up/_demo_content_row_2_up.jade",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/organisms/_content-row-3-up/_demo_content-row-3-up.jade",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/organisms/_content_row_2_up/_demo_content_row_2_up.scss",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/organisms/_content-row-3-up/_content-row-3-up.jade",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/organisms/_3_up_content_row/_3_up_content_row.scss",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/organisms/_3_up_content_row/_3_up_content_row.jade",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/organisms/_3_up_content_row/_demo_3_up_content_row.jade",
+		"/Users/pjhauser/Development/_dev_emed_medexmedia/src/molecules/_full_width_content_block/_demo_full_width_content_block.jade"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"<open files>",
+			"",
+			"/Users/pjhauser/Development/_dev_emed_medexmedia/src/pages/cookies/cookies.jade",
+			"",
+			"/Users/pjhauser/Development/_dev_pjhauser/src",
+			"/Users/pjhauser/Development/atomic-component-system/",
+			"/Users/pjhauser/Development/atomic-component-system/app/",
+			"/Users/pjhauser/Development/atomic-component-system/app/templates",
+			"/Users/pjhauser/Development/abbott-drupal/docroot/sites/all/themes/abbott",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/jade",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/sass",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/jade",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/sass",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/jade",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/sass",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/jade",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/sass",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/jade",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/sass",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/jade",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/sass",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/jade",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/sass",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/scss",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/jade",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/js",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/jade",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/jade--toggle",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/sass",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/jade",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/sass",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/scss",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/jade",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/sass",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/jade",
+			"",
+			"/Users/pjhauser/Development/abbott-pre-launch-static-uk/ja/script.js",
+			"/Users/pjhauser/Development/abbott-pre-launch-static-uk/css/style.css",
+			"/Users/pjhauser/Development/abbott-pre-launch-static-uk/js/script.js",
+			"/Users/pjhauser/Development/abbott-pre-launch-static/js/script.js",
+			"",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/sass",
+			"/Users/pjhauser/Development/abbot-adc-component-factory/src/jade",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"menu",
+			"satis",
+			"sans",
+			"3rem",
+			"100;",
+			"100",
+			"12",
+			", \"intro\"",
+			"#cover",
+			"opacity",
+			"open",
+			"scrolled",
+			"animation",
+			"animStar",
+			"box-shadow",
+			"header",
+			"console.log",
+			"#cover",
+			"ux-",
+			"Screen-Shot-2013-02-05-at-16.46.57",
+			"ux-desk",
+			"Screen-Shot-2013-02-05-at-16.46.57",
+			".title",
+			"58 ",
+			"			componentList.runComponentTasks();\n",
+			"at-max",
+			"menu-toggle--open",
+			"body",
+			"body {",
+			"body{",
+			"body",
+			"mono",
+			"/img",
+			"nexa",
+			"Arial",
+			"isItShown",
+			"css66",
+			"homeURL66",
+			"referenceURL66",
+			"a(",
+			"  ",
+			"a(",
+			"p",
+			"href",
+			"    ",
+			"  ",
+			"hideLigh",
+			"empty",
+			"2013",
+			"Raleway",
+			"Arial",
+			"arial",
+			"helv",
+			"article",
+			"4.3",
+			"-0.5",
+			"initSlider",
+			"slider",
+			"333",
+			"blue",
+			"35%",
+			"img src=\"/img",
+			"js",
+			"\");",
+			"img",
+			"link",
+			"border",
+			"../atoms/_headings",
+			"./../atoms/_headings",
+			"./../atoms",
+			"./../atoms/_headings/_headings.js",
+			"gitconfig",
+			"nameToID",
+			"componentType",
+			"nameToID",
+			"this.aceNeedsInit",
+			"quit",
+			">>>>",
+			"console.log",
+			"sassList",
+			"content-block",
+			"addDependency",
+			"img:",
+			"configFile",
+			"gitcon",
+			"username",
+			"readFileAsString",
+			"configFile",
+			"ace.json",
+			"gitGlobalConfigFile",
+			"getGitInfo",
+			"git",
+			"domain",
+			"componentType",
+			"What type would you like to generate?",
+			"sass",
+			"          self.exportedFiles",
+			".pop",
+			">",
+			"fileToExport",
+			"componentSelect",
+			"aceExport",
+			"config",
+			"current",
+			"getTask",
+			"%content-section--1-column",
+			"1s",
+			"e.preventdefault(",
+			"650px",
+			"-8re9",
+			"-8rem",
+			"-8",
+			"f2f2f2",
+			"1.3",
+			"_home",
+			"5ac8fb",
+			"52edc7",
+			"000",
+			"650",
+			"15",
+			"321",
+			"box",
+			"baseUrl",
+			"fileNameArray",
+			"componentList",
+			"fileNameArray",
+			"require",
+			".menu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"-webkit-box-shadow",
+			"img",
+			"    ",
+			"img src=\"/new_site/img",
+			"\"tap\"",
+			"tap",
+			"top: \"140px\",",
+			"six",
+			"seven",
+			"loadView6",
+			"loadView7",
+			"loadView5",
+			"loadView6",
+			"loadView5",
+			"loadView6",
+			"//console",
+			"click",
+			"tap",
+			"(../img/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/organisms/_header/_header.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2068,
+								2068
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1855.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/molecules/_nav_items/_nav_items.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1724,
+								1724
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1426.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ace.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"items",
+				"02. Molecules/_nav_items/_nav_items.scss"
+			],
+			[
+				"head",
+				"03. Organisms/_header/_header.scss"
+			],
+			[
+				"nav",
+				"02. Molecules/_nav_items/_nav_items.scss"
+			],
+			[
+				"header",
+				"03. Organisms/_header/_header.scss"
+			],
+			[
+				"free",
+				"05. Pages/fsl/freestyle_libre.scss"
+			],
+			[
+				"global",
+				"src/global-js/main.js"
+			],
+			[
+				"con",
+				"02. Molecules/_content_block/_content_block.scss"
+			],
+			[
+				"page_de",
+				"04. Templates/_page_default/_page_default.scss"
+			],
+			[
+				"indec",
+				"src/pages/index/index.scss"
+			],
+			[
+				"content",
+				"02. Molecules/_content_block/_content_block.scss"
+			],
+			[
+				"index",
+				"05. Pages/index/index.scss"
+			],
+			[
+				"_header",
+				"03. Organisms/_header/_header.scss"
+			],
+			[
+				"item",
+				"02. Molecules/_item_card/_item_card.jade"
+			],
+			[
+				"_logo",
+				"01. Atoms/_logo/_logo.scss"
+			],
+			[
+				"page",
+				"04. Templates/_page_default/_page_default.scss"
+			],
+			[
+				"setting",
+				"src/global-scss/_settings.scss"
+			],
+			[
+				"blog.scss",
+				"05. Pages/blog/blog.scss"
+			],
+			[
+				"elem",
+				"src/global-scss/mixins/_element_query.scss"
+			],
+			[
+				"settings",
+				"src/global-scss/_settings.scss"
+			],
+			[
+				"compoen",
+				"src/global-js/componentList.js"
+			],
+			[
+				"navitemscss",
+				"01. Atoms/_nav_item/_nav_item.scss"
+			],
+			[
+				"navi",
+				"01. Atoms/_nav_item/_nav_item.jade"
+			],
+			[
+				"",
+				"js/script.js"
+			],
+			[
+				"style",
+				"css/style.css"
+			],
+			[
+				"ligh",
+				"components/organisms/lightbox/css/lightbox.css"
+			],
+			[
+				"common",
+				"css/common.css"
+			],
+			[
+				"validat",
+				"js/validation.js"
+			],
+			[
+				"lightbox",
+				"components/organisms/lightbox/css/lightbox.css"
+			],
+			[
+				"light",
+				"components/organisms/lightbox/css/lightbox.css"
+			],
+			[
+				"eventdetail",
+				"src/jade/page_event_details_in-person.jade"
+			],
+			[
+				"eventdetajade",
+				"src/jade/page_event_details.jade"
+			],
+			[
+				"hearfromexpertjade",
+				"src/jade/page_hear_from_an_expert.jade"
+			],
+			[
+				"pageretinfo",
+				"src/jade/page_returns_info.jade"
+			],
+			[
+				"hearfromjade",
+				"src/jade/page_hear_from_an_expert.jade"
+			],
+			[
+				"contactjade",
+				"src/jade/mixins/organisms/_contact_form.jade"
+			],
+			[
+				"addjade",
+				"src/jade/mixins/molecules/_edit_address_form.jade"
+			],
+			[
+				"hearexpertjade",
+				"src/jade/page_hear_from_an_expert.jade"
+			],
+			[
+				"eventdetailscss",
+				"src/sass/pages/_page_event_details.scss"
+			],
+			[
+				"eventdetailsjade",
+				"src/jade/page_event_details.jade"
+			],
+			[
+				"eventdetailjade",
+				"src/jade/page_event_details_in-person.jade"
+			],
+			[
+				"eventjade",
+				"src/jade/page_events.jade"
+			],
+			[
+				"gruntfile",
+				"Gruntfile.js"
+			],
+			[
+				"eventitemscss",
+				"src/sass/molecules/_events_item.scss"
+			],
+			[
+				"recentorderit",
+				"src/jade/mixins/molecules/_recent_orders_items.jade"
+			],
+			[
+				"recentorder",
+				"src/jade/mixins/organisms/_recent_orders.jade"
+			],
+			[
+				"contactsummjade",
+				"src/jade/mixins/molecules/_contact_summary.jade"
+			],
+			[
+				"accountjade",
+				"src/jade/page_account.jade"
+			],
+			[
+				"footerjade",
+				"src/jade/mixins/molecules/_site_footer.jade"
+			],
+			[
+				"interacjade",
+				"src/jade/mixins/molecules/_interactive_product_image.jade"
+			],
+			[
+				"listbannerscss",
+				"src/sass/molecules/_product_listing_banner.scss"
+			],
+			[
+				"listingbannerjade",
+				"src/jade/mixins/molecules/_product_listing_banner.jade"
+			],
+			[
+				"productbannerjade",
+				"src/jade/mixins/molecules/_product_listing_banner.jade"
+			],
+			[
+				"shoplistinjade",
+				"src/jade/page_shop_listing.jade"
+			],
+			[
+				"interactivejade",
+				"src/jade/mixins/molecules/_interactive_product_image.jade"
+			],
+			[
+				"__icon",
+				"src/sass/atoms/__icon_set.scss"
+			],
+			[
+				"page_account_orders_returnjade",
+				"src/jade/page_account_orders_return.jade"
+			],
+			[
+				"page_account_orders_individual_returnjade",
+				"src/jade/page_account_orders_individual_return.jade"
+			],
+			[
+				"editaccountjade",
+				"src/jade/mixins/molecules/_edit_account_form.jade"
+			],
+			[
+				"pageaccountjade",
+				"src/jade/page_account.jade"
+			],
+			[
+				"editjade",
+				"src/jade/page_account_edit.jade"
+			],
+			[
+				"addressjade",
+				"src/jade/page_account_addresses.jade"
+			],
+			[
+				"editaccoutnjade",
+				"src/jade/mixins/molecules/_edit_account_form.jade"
+			],
+			[
+				"returnsjade",
+				"src/jade/mixins/molecules/_returns.jade"
+			],
+			[
+				"addressbookjade",
+				"src/jade/mixins/molecules/_address_book_address.jade"
+			],
+			[
+				"sitefooterjade",
+				"src/jade/mixins/molecules/_site_footer.jade"
+			],
+			[
+				"templateaccount",
+				"src/sass/templates/_page_account.scss"
+			],
+			[
+				"addressscss",
+				"src/sass/pages/_page_address_book.scss"
+			],
+			[
+				"eventcomboscss",
+				"src/sass/molecules/_event_benefit_combo.scss"
+			],
+			[
+				"eventsearchscss",
+				"src/sass/molecules/_event_search.scss"
+			],
+			[
+				"eventsearchjade",
+				"src/jade/mixins/molecules/_event_search.jade"
+			],
+			[
+				"eventcombjade",
+				"src/jade/mixins/molecules/_event_benefit_combo.jade"
+			],
+			[
+				"hearfromexjade",
+				"src/jade/page_hear_from_an_expert.jade"
+			],
+			[
+				"__iconscss",
+				"src/sass/atoms/__icon_set.scss"
+			],
+			[
+				"pagewarrantyjade",
+				"src/jade/page_account_warranty_registration.jade"
+			],
+			[
+				"pagereturnform",
+				"src/jade/page_account_orders_return_form.jade"
+			],
+			[
+				"tablescss",
+				"src/sass/molecules/_table.scss"
+			],
+			[
+				"returninfojade",
+				"src/jade/mixins/molecules/_return_info.jade"
+			],
+			[
+				"pagereturnjade",
+				"src/jade/page_account_orders_return.jade"
+			],
+			[
+				"shippingjade",
+				"src/jade/mixins/organisms/_shipping_method.jade"
+			],
+			[
+				"_debugscss",
+				"src/sass/_debug.scss"
+			],
+			[
+				"recentorders",
+				"src/jade/mixins/organisms/_recent_orders.jade"
+			],
+			[
+				"recentordersjade",
+				"src/jade/mixins/molecules/_recent_orders_header.jade"
+			],
+			[
+				"orderhistoryjade",
+				"src/jade/page_account_orders_history.jade"
+			],
+			[
+				"pageaddressjade",
+				"src/jade/page_account_addresses.jade"
+			],
+			[
+				"fieldjade",
+				"src/jade/mixins/molecules/_field.jade"
+			],
+			[
+				"addressinformation",
+				"src/jade/mixins/molecules/_address_information_form.jade"
+			],
+			[
+				"addaddressjade",
+				"src/jade/mixins/molecules/_add_new_address_form.jade"
+			],
+			[
+				"editaddress",
+				"src/jade/mixins/molecules/_edit_address_form.jade"
+			],
+			[
+				"eventreqjade",
+				"src/jade/mixins/molecules/_events_request_form.jade"
+			],
+			[
+				"addressaddjade",
+				"src/jade/page_account_addresses_add.jade"
+			],
+			[
+				"addnewjade",
+				"src/jade/mixins/molecules/_add_new_address_form.jade"
+			],
+			[
+				"infoboxscss",
+				"src/sass/molecules/_info_box.scss"
+			],
+			[
+				"pageaccountaddjade",
+				"src/jade/page_account_addresses.jade"
+			],
+			[
+				"contact_sujade",
+				"src/jade/mixins/molecules/_contact_summary.jade"
+			],
+			[
+				"news_subja",
+				"src/jade/mixins/molecules/_news_sub.jade"
+			],
+			[
+				"recentorderjade",
+				"src/jade/mixins/molecules/_recent_orders_items.jade"
+			],
+			[
+				"showperpage",
+				"src/sass/atoms/_show_per_page.scss"
+			],
+			[
+				"butt",
+				"src/sass/atoms/_buttons.scss"
+			],
+			[
+				"formscss",
+				"src/sass/organisms/_form.scss"
+			],
+			[
+				"contactmethscss",
+				"src/sass/molecules/_contact_methods.scss"
+			],
+			[
+				"clear",
+				"src/sass/helpers/_clearfix.scss"
+			],
+			[
+				"pageaddnewscss",
+				"src/sass/pages/_page_add_new_address.scss"
+			],
+			[
+				"addnewscss",
+				"src/sass/molecules/_add_new_address_form.scss"
+			],
+			[
+				"templatepageaccount",
+				"src/sass/templates/_page_account.scss"
+			],
+			[
+				"mainconten",
+				"src/sass/organisms/_main_content.scss"
+			],
+			[
+				"mainscss",
+				"src/sass/main.scss"
+			],
+			[
+				"maincontscss",
+				"src/sass/organisms/_main_content.scss"
+			],
+			[
+				"iconscss",
+				"src/sass/mixins/_icon.scss"
+			],
+			[
+				"listingscss",
+				"src/sass/organisms/_product_listing.scss"
+			],
+			[
+				"prodteasscss",
+				"src/sass/molecules/_product_teaser.scss"
+			],
+			[
+				"software_downloadjade",
+				"src/jade/mixins/organisms/_software_download.jade"
+			],
+			[
+				"pagesoftjade",
+				"src/jade/page_software_download.jade"
+			],
+			[
+				"infoscss",
+				"src/sass/molecules/_info_box.scss"
+			],
+			[
+				"buttonscss",
+				"src/sass/atoms/_buttons.scss"
+			],
+			[
+				"buttonjade",
+				"src/jade/mixins/atoms/_button.jade"
+			],
+			[
+				"mixinmolecjade",
+				"src/jade/mixins/molecules/_event_benefit_combo.jade"
+			],
+			[
+				"infojade",
+				"src/jade/mixins/molecules/_info_box.jade"
+			],
+			[
+				"softwarepromoscss",
+				"src/sass/molecules/_software_download_promo.scss"
+			],
+			[
+				"softwarepromo",
+				"src/jade/mixins/molecules/_software_download_promo.jade"
+			],
+			[
+				"listing",
+				"src/jade/page_shop_listing.jade"
+			],
+			[
+				"newsletterscss",
+				"src/sass/molecules/_mini_newsletter.scss"
+			],
+			[
+				"navscss",
+				"src/sass/organisms/_nav_all.scss"
+			],
+			[
+				"mastscss",
+				"src/sass/molecules/_masthead.scss"
+			],
+			[
+				"navjs",
+				"dev/js/molecules/main_nav.js"
+			],
+			[
+				"navwrapper",
+				"src/sass/molecules/_nav_toggle_wrapper.scss"
+			],
+			[
+				"navjade",
+				"src/jade/mixins/molecules/_main_nav.jade"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"navtogglescss",
+				"src/sass/molecules/_nav_toggle_wrapper.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -22,7 +22,8 @@
     "grunt-contrib-copy": "~0.4.1",
     "grunt-contrib-requirejs": "~0.4.1",
     "grunt-remfallback": "0.0.5",
-    "grunt-contrib-connect": "^0.7.1"
+    "grunt-contrib-connect": "^0.7.1",
+    "grunt-appcache": "~0.1.7"
   },
   "dependencies": {
     "marked": "~0.3.2"

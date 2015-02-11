@@ -6,7 +6,7 @@
 // replace with medium and large
 // element breakpoints
 $medium: 99999px;
-$large: 99999px;
+$large: 1000px;
 
 
 // element color pallet
@@ -25,5 +25,12 @@ $large: 99999px;
 // 	//large styles
 // }
 
-.page-about{
+.page-about .content{
+	@include at-min-width($large){
+		.content-block{
+			img{
+				margin-top: 1rem;
+			}
+		}
+	}
 }

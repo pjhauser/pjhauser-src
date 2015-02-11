@@ -88,6 +88,34 @@ if (!commonJS) {
 			// Get the list of components and 
 			// run their tasks
 			componentList.runComponentTasks();
+
+			if(window.location.pathname == "/fsl.html"){
+				if(!localStorage.getItem("fslPermission")){
+					localStorage.setItem("requestedFsl", true);
+					window.location.href = "/";
+				}else{
+					$("article").removeClass("fsl");
+				}
+			}
+
+
+			if(window.location.pathname == "/"){
+				if(localStorage.getItem("requestedFsl") && !localStorage.getItem("fslPermission")){
+					var fsl = prompt("Oooo, to see this project please enter the password", "Password");
+					if (fsl == "letmein") {
+						localStorage.setItem("fslPermission", true);
+						window.location.href = "/fsl.html";
+					}
+				}
+			}
+
+
+
+
+			$(window).on("aceComplete", function(){
+				console.log("[ACE COMPLETE TRIGGERED]");
+				$("body").addClass("ace-complete");
+			});
 		});
 
 	});
